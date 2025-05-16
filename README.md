@@ -36,3 +36,15 @@ Feel free to explore the solutions, and if you want to connect or collaborate, r
 
 _“Consistent practice is the key to mastery.”_
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ThronePrincess/raksha-vs-leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ThronePrincess/raksha-vs-leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
